@@ -34,3 +34,4 @@ Here are the images that inspired me.
 I first wanted to visualize the data based on a NYC map, but I found I can't determine the latitude and longitude of the image. It didn't fit with the data. So I decided not to use it. 
 ![Process](./Process.png)
 Then I found I need enough datapoints to create the shape of NYC, so I used more than 1000 datapoints, by changing the transparency, the circles are not so overlapping with each other.
+I chose to use green, yellow, and red color because after reading the book Visualizing Black America, I found the color needs to be easily distinguished by the audiences.
